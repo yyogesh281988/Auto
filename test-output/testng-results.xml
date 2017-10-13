@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83830" started-at="2017-10-13T10:06:36Z" finished-at="2017-10-13T10:08:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83830" started-at="2017-10-13T10:06:36Z" finished-at="2017-10-13T10:08:00Z">
+      <class name="loginPage.Login">
+        <test-method status="PASS" signature="LoginInitialisation()[pri:2, instance:loginPage.Login@5c3bd550]" name="LoginInitialisation" duration-ms="38" started-at="2017-10-13T15:37:43Z" finished-at="2017-10-13T15:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginInitialisation -->
+        <test-method status="PASS" signature="logIn()[pri:3, instance:loginPage.Login@5c3bd550]" name="logIn" duration-ms="16634" started-at="2017-10-13T15:37:43Z" finished-at="2017-10-13T15:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+      </class> <!-- loginPage.Login -->
+      <class name="loginPage.Registration">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:loginPage.Registration@3bfdc050]" name="initialisation" duration-ms="16919" started-at="2017-10-13T15:36:36Z" finished-at="2017-10-13T15:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="registeration_fields_check()[pri:0, instance:loginPage.Registration@3bfdc050]" name="registeration_fields_check" duration-ms="3314" started-at="2017-10-13T15:36:53Z" finished-at="2017-10-13T15:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeration_fields_check -->
+        <test-method status="PASS" signature="register()[pri:1, instance:loginPage.Registration@3bfdc050]" name="register" duration-ms="46898" started-at="2017-10-13T15:36:56Z" finished-at="2017-10-13T15:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- loginPage.Registration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

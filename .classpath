@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Selenium/Auto/driver/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/yogesh.singh/Downloads/ashot-1.5.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
